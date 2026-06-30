@@ -1,0 +1,206 @@
+Lesson	Type	No	Name	Sentences_Kor	Sentences_Phon	Sentences_Viet	FileAudio	FileImage
+Lesson1	Subject	0	Subj	처음 뵙겠습니다 (Lần đầu được gặp / Rất hân hạnh được gặp)				
+Lesson1	Vocabulary	1	Struc	Giới thiệu bản thân (소개)				
+Lesson1	Vocabulary	1.1	Exam	성명	song-myong	Họ và tên		
+Lesson1	Vocabulary	1.1.ex	Exam	성명을 여기에 써 주세요.	song-myong-ưl yo-gi-ê sso chu-sê-yô.	Hãy viết họ tên vào đây.		
+Lesson1	Vocabulary	1.1.tip	Def			🈲 Hán Việt: 성(姓) = Họ + 명(名) = Danh → Họ Danh → tương tự "Tính Danh" (họ tên)! 성명 = họ và tên		
+Lesson1	Vocabulary	1.2	Exam	성별	song-pyol	Giới tính		
+Lesson1	Vocabulary	1.2.ex	Exam	성별은 남자예요.	song-pyo-rưn nam-cha-yê-yô.	Giới tính là nam.		
+Lesson1	Vocabulary	1.2.tip	Def			🈲 Hán Việt: 성(性) = Tính + 별(別) = Biệt → Tính Biệt → tương tự "Giới Tính" (phân biệt giới)! 성별 = giới tính		
+Lesson1	Vocabulary	1.3	Exam	생년월일	sêng-nyo-nuo-ril	Ngày tháng năm sinh		
+Lesson1	Vocabulary	1.3.ex	Exam	생년월일이 어떻게 되세요?	sêng-nyo-nuo-ri-ri o-tto-khê tuê-sê-yô?	Ngày tháng năm sinh của bạn là gì?		
+Lesson1	Vocabulary	1.3.tip	Def			🈲 Hán Việt: 생(生)=Sinh + 년(年)=Niên + 월(月)=Nguyệt + 일(日)=Nhật → Sinh Niên Nguyệt Nhật = Năm Tháng Ngày Sinh! 생년월일 = ngày tháng năm sinh		
+Lesson1	Vocabulary	1.4	Exam	직업	chi-gop	Nghề nghiệp		
+Lesson1	Vocabulary	1.4.ex	Exam	직업이 뭐예요?	chi-go-bi muo-yê-yô?	Nghề nghiệp của bạn là gì?		
+Lesson1	Vocabulary	1.4.tip	Def			🈲 Hán Việt: 직(職) = Chức + 업(業) = Nghiệp → Chức Nghiệp = nghề nghiệp! Ai có chức có nghiệp!		
+Lesson1	Vocabulary	1.5	Exam	국적	guk-tchok	Quốc tịch		
+Lesson1	Vocabulary	1.5.ex	Exam	국적이 어디예요?	guk-tcho-gi o-ti-yê-yô?	Quốc tịch của bạn là nước nào?		
+Lesson1	Vocabulary	1.5.tip	Def			🈲 Hán Việt: 국(國) = Quốc + 적(籍) = Tịch → Quốc Tịch! Giống y chang tiếng Việt!		
+Lesson1	Vocabulary	1.6	Exam	종교	chong-gyô	Tôn giáo		
+Lesson1	Vocabulary	1.6.ex	Exam	종교가 있어요?	chong-gyô-ga i-sso-yô?	Bạn có theo tôn giáo không?		
+Lesson1	Vocabulary	1.6.tip	Def			🈲 Hán Việt: 종(宗) = Tông + 교(敎) = Giáo → Tông Giáo → tương tự "Tôn Giáo"! 종교 = tôn giáo		
+Lesson1	Vocabulary	1.7	Exam	연락처	yol-rak-tro	Thông tin liên lạc		
+Lesson1	Vocabulary	1.7.ex	Exam	연락처를 알려 주세요.	yol-rak-tro-rưl al-ryo chu-sê-yô.	Hãy cho tôi biết thông tin liên lạc.		
+Lesson1	Vocabulary	1.7.tip	Def			🈲 Hán Việt: 연락(連絡) = Liên Lạc + 처(處) = Xứ/nơi → Nơi liên lạc = thông tin liên hệ! 연락처 = số điện thoại/liên lạc		
+Lesson1	Vocabulary	1.8	Exam	주소	chu-sô	Địa chỉ		
+Lesson1	Vocabulary	1.8.ex	Exam	주소가 어떻게 되세요?	chu-sô-ga o-tto-khê tuê-sê-yô?	Địa chỉ của bạn là gì?		
+Lesson1	Vocabulary	1.8.tip	Def			🈲 Hán Việt: 주(住) = Trú + 소(所) = Sở → Trú Sở = nơi cư trú = địa chỉ! 주소 = địa chỉ		
+Lesson1	Vocabulary	1.9	Exam	전화	chon-hoa	Điện thoại		
+Lesson1	Vocabulary	1.9.ex	Exam	전화번호가 뭐예요?	chon-hoa-bon-hô-ga muo-yê-yô?	Số điện thoại của bạn là gì?		
+Lesson1	Vocabulary	1.9.tip	Def			🈲 Hán Việt: 전(電) = Điện + 화(話) = Thoại → Điện Thoại! Giống y chang tiếng Việt!		
+Lesson1	Vocabulary	1.10	Exam	이메일	i-mê-il	E-mail		
+Lesson1	Vocabulary	1.10.ex	Exam	이메일 주소를 써 주세요.	i-mê-il chu-sô-rưl sso chu-sê-yô.	Hãy viết địa chỉ email.		
+Lesson1	Vocabulary	1.10.tip	Def			🔊 'I-me-il' → E-MAIL! Phiên âm tiếng Anh trực tiếp. Nghe là biết ngay!		
+Lesson1	Vocabulary	2	Struc	Phó từ chỉ tần suất (빈도 부사)				
+Lesson1	Vocabulary	2.1	Exam	매일	mê-il	Mỗi ngày / hằng ngày		
+Lesson1	Vocabulary	2.1.ex	Exam	저는 매일 한국어를 공부해요.	cho-nưn mê-il han-gu-go-rưl gông-pu-hê-yô.	Tôi học tiếng Hàn mỗi ngày.		
+Lesson1	Vocabulary	2.1.tip	Def			🈲 Hán Việt: 매(每) = Mỗi + 일(日) = Nhật = ngày → Mỗi Nhật = mỗi ngày!		
+Lesson1	Vocabulary	2.2	Exam	매주	mê-chu	Mỗi tuần / hằng tuần		
+Lesson1	Vocabulary	2.2.ex	Exam	저는 매주 일요일에 등산을 해요.	cho-nưn mê-chu i-ryô-i-rê tưng-sa-nưl hê-yô.	Tôi leo núi vào mỗi chủ nhật.		
+Lesson1	Vocabulary	2.2.tip	Def			🈲 Hán Việt: 매(每) = Mỗi + 주(週) = Tuần → Mỗi Tuần! Cùng công thức với 매일 (mỗi ngày)		
+Lesson1	Vocabulary	2.3	Exam	매달	mê-tal	Mỗi tháng / hằng tháng		
+Lesson1	Vocabulary	2.3.ex	Exam	저는 매달 30일에 회의를 해요.	cho-nưn mê-tal sam-xi-bi-rê huê-ưi-rưl hê-yô.	Tôi họp vào ngày 30 mỗi tháng.		
+Lesson1	Vocabulary	2.3.tip	Def			🔊 매 (mỗi - Hán Việt) + 달 (tháng - thuần Hàn) → Mỗi Đạt (đạt mốc tháng mới) = mỗi tháng! 매달 = hàng tháng		
+Lesson1	Vocabulary	2.4	Exam	매년	mê-nyon	Mỗi năm / hằng năm		
+Lesson1	Vocabulary	2.4.ex	Exam	저는 매년 크리스마스에 고향에 가요.	cho-nưn mê-nyon khư-ri-sư-ma-sư-ê gô-hyang-ê ga-yô.	Tôi về quê vào dịp Giáng sinh mỗi năm.		
+Lesson1	Vocabulary	2.4.tip	Def			🈲 Hán Việt: 매(每) = Mỗi + 년(年) = Niên → Mỗi Niên = mỗi năm! Cùng công thức với 매일, 매주		
+Lesson1	Vocabulary	2.5	Exam	항상	hang-sang	Luôn luôn		
+Lesson1	Vocabulary	2.5.ex	Exam	저는 항상 아침을 먹어요.	cho-nưn hang-sang a-tri-mưl mo-go-yô.	Tôi luôn ăn sáng.		
+Lesson1	Vocabulary	2.5.tip	Def			🈲 Hán Việt: 항(恒) = Hằng + 상(常) = Thường → Hằng Thường → tương tự "Thường Hằng"! 항상 = luôn luôn		
+Lesson1	Vocabulary	2.6	Exam	자주	cha-chu	Thường xuyên		
+Lesson1	Vocabulary	2.6.ex	Exam	저는 친구를 자주 만나요.	cho-nưn trin-gu-rưl cha-chu man-na-yô.	Tôi thường xuyên gặp bạn bè.		
+Lesson1	Vocabulary	2.6.tip	Def			🔊 'Ja-ju' nghe như 'GIÀ JU' → bà già hay JU (lui tới) hoài = thường xuyên! 자주 = thường xuyên		
+Lesson1	Vocabulary	2.7	Exam	가끔	ga-kkưm	Thỉnh thoảng		
+Lesson1	Vocabulary	2.7.ex	Exam	저는 가끔 영화를 봐요.	cho-nưn ga-kkưm yong-hoa-rưl poa-yô.	Thỉnh thoảng tôi xem phim.		
+Lesson1	Vocabulary	2.7.tip	Def			🔊 'Ga-kkeum' nghe như 'GẦN KỀM' → thỉnh thoảng mới kèm theo nhau! 가끔 = thỉnh thoảng		
+Lesson1	Grammar	1	Struc	N(이)라고 하다 — (Được) gọi là / Tên là N				
+Lesson1	Grammar	1	Def			Cấu trúc giới thiệu tên gọi: "tên là / được gọi là N". Dùng để giới thiệu tên mình hoặc cho biết người/vật được gọi là gì.		
+Lesson1	Grammar	1	Form			N(nguyên âm cuối) + 라고 하다 | N(phụ âm cuối) + 이라고 하다. Thay 하다 bằng 부르다 → "(được) gọi là".		
+Lesson1	Grammar	1	Usa			저는 ~(이)라고 합니다/해요 = "Tôi tên là ~". 사람들이 저를 ~(이)라고 불러요 = "Mọi người gọi tôi là ~".		
+Lesson1	Grammar	1.1	Exam	저는 김민수라고 합니다.	cho-nưn gim-min-su-ra-gô ham-ni-ta.	Tôi tên là Kim Minsu.		
+Lesson1	Grammar	1.2	Exam	저는 히엔이라고 해요.	cho-nưn hi-ê-ni-ra-gô hê-yô.	Tôi tên là Hiền.		
+Lesson1	Grammar	1.3	Exam	저는 다나카 마리코라고 합니다.	cho-nưn ta-na-kha ma-ri-khô-ra-gô ham-ni-ta.	Tôi tên là Tanaka Mariko.		
+Lesson1	Grammar	1.4	Exam	친구들은 저를 탄이라고 불러요.	trin-gu-tư-rưn cho-rưl tha-ni-ra-gô pul-ro-yô.	Bạn bè gọi tôi là Tân.		
+Lesson1	Grammar	2	Struc	V-(으)려고 — Để / nhằm làm gì (mục đích)				
+Lesson1	Grammar	2	Def			Diễn đạt mục đích, ý định của hành động: "để / nhằm". Vế sau là hành động được thực hiện nhằm đạt mục đích ở vế trước.		
+Lesson1	Grammar	2	Form			V(nguyên âm cuối hoặc ㄹ) + 려고 | V(phụ âm cuối) + 으려고		
+Lesson1	Grammar	2	Usa			Khác với -(으)러 (chỉ dùng với đi/đến): -(으)려고 dùng được với nhiều động từ chính. Vế sau thường ở quá khứ hoặc hiện tại.		
+Lesson1	Grammar	2.1	Exam	편지를 보내려고 우체국에 갔어요.	phyon-chi-rưl pô-nê-ryo-gô u-trê-gu-gê ga-sso-yô.	Tôi đến bưu điện để gửi thư.		
+Lesson1	Grammar	2.2	Exam	저녁에 먹으려고 과일을 샀어요.	cho-nyo-gê mo-gư-ryo-gô goa-i-rưl sa-sso-yô.	Tôi mua trái cây để ăn tối.		
+Lesson1	Grammar	2.3	Exam	한국 친구들과 이야기하려고 한국어를 공부해요.	han-guk trin-gu-tưl-goa i-ya-gi-ha-ryo-gô han-gu-go-rưl gông-pu-hê-yô.	Tôi học tiếng Hàn để nói chuyện với bạn bè người Hàn.		
+Lesson1	Grammar	2.4	Exam	운동하려고 공원에 갔어요.	un-tông-ha-ryo-gô gông-uo-nê ga-sso-yô.	Tôi đến công viên để tập thể dục.		
+Lesson1	Grammar	3	Struc	V-거나 — Hoặc / hay (lựa chọn hành động)				
+Lesson1	Grammar	3	Def			Diễn đạt sự lựa chọn giữa hai hành động: "hoặc / hay". Nối hai động từ, làm cái này hoặc cái kia đều được.		
+Lesson1	Grammar	3	Form			V + 거나 + V (không phân biệt phụ âm/nguyên âm cuối). Có thể nối nhiều hơn hai động từ.		
+Lesson1	Grammar	3	Usa			거나 nối ĐỘNG TỪ (V), còn (이)나 nối DANH TỪ (N). Đừng nhầm hai cấu trúc!		
+Lesson1	Grammar	3.1	Exam	부모님이 보고 싶으면 편지를 쓰거나 전화를 해요.	pu-mô-ni-mi pô-gô xi-phư-myon phyon-chi-rưl ssư-go-na chon-hoa-rưl hê-yô.	Khi nhớ bố mẹ thì tôi viết thư hoặc gọi điện.		
+Lesson1	Grammar	3.2	Exam	일요일에는 책을 읽거나 영화를 봐요.	i-ryô-i-rê-nưn trê-gưl il-go-na yong-hoa-rưl poa-yô.	Vào chủ nhật tôi đọc sách hoặc xem phim.		
+Lesson1	Grammar	3.3	Exam	집에서 쉬거나 친구를 만나요.	chi-pê-so suy-go-na trin-gu-rưl man-na-yô.	Tôi nghỉ ở nhà hoặc gặp bạn bè.		
+Lesson1	Grammar	3.4	Exam	도서관에 가거나 친구를 만나요.	tô-so-goa-nê ga-go-na trin-gu-rưl man-na-yô.	Tôi đến thư viện hoặc gặp bạn bè.		
+Lesson1	Grammar	4	Struc	N(이)나 — Hoặc / hay (lựa chọn danh từ)				
+Lesson1	Grammar	4	Def			Diễn đạt sự lựa chọn giữa hai danh từ: "hoặc / hay". Nối hai danh từ, chọn cái nào cũng được.		
+Lesson1	Grammar	4	Form			N(nguyên âm cuối) + 나 | N(phụ âm cuối) + 이나		
+Lesson1	Grammar	4	Usa			(이)나 nối DANH TỪ; còn 거나 nối ĐỘNG TỪ. Mẹo: cả hai đều nghĩa "hoặc", chỉ khác đứng sau N hay V.		
+Lesson1	Grammar	4.1	Exam	과일이 없어요. 사과나 배를 좀 사 오세요.	goa-i-ri op-sso-yô. sa-goa-na pê-rưl chôm sa ô-sê-yô.	Hết trái cây rồi. Hãy mua táo hoặc lê về nhé.		
+Lesson1	Grammar	4.2	Exam	월요일이나 화요일 어때요?	uo-ryô-i-ri-na hoa-yô-il o-ttê-yô?	Thứ hai hoặc thứ ba thì thế nào?		
+Lesson1	Grammar	4.3	Exam	점심에 김밥이나 햄버거를 먹어요.	chom-xi-mê gim-pa-bi-na hêm-bo-go-rưl mo-go-yô.	Buổi trưa tôi ăn gimbap hoặc hamburger.		
+Lesson1	Grammar	4.4	Exam	생일에 책이나 꽃을 받고 싶어요.	sêng-i-rê trê-gi-na kkô-trưl pat-kô xi-pho-yô.	Sinh nhật tôi muốn nhận sách hoặc hoa.		
+Lesson1	Speaking	1	Struc	Tự giới thiệu bản thân (자기소개하기)				
+Lesson1	Speaking	1.1	Exam	처음 뵙겠습니다. 저는 다나카 마리코라고 합니다.	cho-ưm puêp-kkêt-ssưm-ni-ta. cho-nưn ta-na-kha ma-ri-khô-ra-gô ham-ni-ta.	Lần đầu được gặp. Tôi tên là Tanaka Mariko.		
+Lesson1	Speaking	1.2	Exam	만나서 반가워요, 다나카 마리코 씨. 저는 스티븐입니다.	man-na-so pan-ga-uo-yô, ta-na-kha ma-ri-khô sxi. cho-nưn sư-thi-pư-nim-ni-ta.	Rất vui được gặp, chị Tanaka Mariko. Tôi là Steven.		
+Lesson1	Speaking	1.3	Exam	그냥 마리코라고 부르세요. 실례지만 스티븐 씨는 무슨 일을 하세요?	gư-nyang ma-ri-khô-ra-gô pu-rư-sê-yô. xil-rê-chi-man sư-thi-pưn sxi-nưn mu-sưn i-rưl ha-sê-yô?	Cứ gọi tôi là Mariko thôi. Xin lỗi nhưng anh Steven làm nghề gì ạ?		
+Lesson1	Speaking	1.4	Exam	저는 대학교에서 한국 역사를 공부하고 있어요. 마리코 씨는 왜 한국어를 공부하세요?	cho-nưn tê-hak-kkyô-ê-so han-guk yok-ssa-rưl gông-pu-ha-gô i-sso-yô. ma-ri-khô sxi-nưn uê han-gu-go-rưl gông-pu-ha-sê-yô?	Tôi đang học lịch sử Hàn Quốc ở trường đại học. Chị Mariko sao lại học tiếng Hàn?		
+Lesson1	Speaking	1.5	Exam	좋아하는 한국 드라마를 한국어로 보려고 공부해요.	chô-a-ha-nưn han-guk tư-ra-ma-rưl han-gu-go-rô pô-ryo-gô gông-pu-hê-yô.	Tôi học để xem bộ phim Hàn mình thích bằng tiếng Hàn.		
+Lesson1	Speaking	2	Struc	Nói về việc làm vào cuối tuần (주말에 하는 일 설명하기)				
+Lesson1	Speaking	2.1	Exam	마리코 씨는 주말에 보통 뭐 하세요?	ma-ri-khô sxi-nưn chu-ma-rê pô-thông muo ha-sê-yô?	Chị Mariko cuối tuần thường làm gì?		
+Lesson1	Speaking	2.2	Exam	집에서 쉬거나 친구를 만나요. 샤오밍 씨는요?	chi-pê-so suy-go-na trin-gu-rưl man-na-yô. sya-ô-ming sxi-nư-nyô?	Tôi nghỉ ở nhà hoặc gặp bạn bè. Còn anh Xiaoming?		
+Lesson1	Speaking	2.3	Exam	저는 주말에는 항상 운동을 해요.	cho-nưn chu-ma-rê-nưn hang-sang un-tông-ưl hê-yô.	Cuối tuần tôi luôn tập thể dục.		
+Lesson1	Speaking	2.4	Exam	무슨 운동을 해요?	mu-sưn un-tông-ưl hê-yô?	Anh tập môn thể thao gì?		
+Lesson1	Speaking	2.5	Exam	수영이나 농구를 해요.	su-yong-i-na nông-gu-rưl hê-yô.	Tôi bơi hoặc chơi bóng rổ.		
+Lesson1	Speaking	2.6	Exam	그래요? 저도 매일 수영을 해요.	gư-rê-yô? cho-tô mê-il su-yong-ưl hê-yô.	Vậy à? Tôi cũng bơi mỗi ngày.		
+Lesson1	Speaking	2.7	Exam	어, 우리는 취미가 같네요.	o, u-ri-nưn truy-mi-ga gan-nê-yô.	Ồ, sở thích của chúng ta giống nhau nhỉ.		
+Lesson2	Subject	0	Subj	취미가 뭐예요? (Sở thích của bạn là gì?)				
+Lesson2	Vocabulary	1	Struc	Sở thích — động từ (취미)				
+Lesson2	Vocabulary	1.1	Exam	사진을 찍다	sa-chi-nưl tchik-tta	Chụp ảnh		
+Lesson2	Vocabulary	1.1.ex	Exam	저는 여행 가서 사진을 찍어요.	cho-nưn yo-hêng ga-so sa-chi-nưl tchi-kko-yô.	Tôi đi du lịch và chụp ảnh.		
+Lesson2	Vocabulary	1.1.tip	Def			🔊 사진 = ảnh, 찍다 nghe như 'CHÍCH ĐÀ' → bấm chích máy ảnh = chụp ảnh! 사진을 찍다 = chụp ảnh		
+Lesson2	Vocabulary	1.2	Exam	음악을 듣다	ư-ma-gưl tưt-tta	Nghe nhạc		
+Lesson2	Vocabulary	1.2.ex	Exam	저는 음악 듣는 것을 좋아해요.	cho-nưn ư-mak tưn-nưn go-sưl chô-a-hê-yô.	Tôi thích nghe nhạc.		
+Lesson2	Vocabulary	1.2.tip	Def			🈲 음악(音樂) = Âm Nhạc + 듣다 nghe như 'ĐƯT ĐÀ' → nghe nhạc đứt ruột (cảm động)! 음악을 듣다 = nghe nhạc		
+Lesson2	Vocabulary	1.3	Exam	춤을 추다	tru-mưl tru-ta	Nhảy múa		
+Lesson2	Vocabulary	1.3.ex	Exam	저는 춤을 잘 춰요.	cho-nưn tru-mưl chal truo-yô.	Tôi nhảy giỏi.		
+Lesson2	Vocabulary	1.3.tip	Def			🔊 'Chum-eul chu-da' nghe như 'CHÙM CHU ĐÀ' → lắc cả chùm nho theo điệu nhạc = nhảy múa! 춤을 추다 = nhảy múa		
+Lesson2	Vocabulary	1.4	Exam	그림을 그리다	gư-ri-mưl gư-ri-ta	Vẽ tranh		
+Lesson2	Vocabulary	1.4.ex	Exam	저는 그림 그리는 것을 좋아해요.	cho-nưn gư-rim gư-ri-nưn go-sưl chô-a-hê-yô.	Tôi thích vẽ tranh.		
+Lesson2	Vocabulary	1.4.tip	Def			🔊 그림 (tranh) + 그리다 (vẽ) → cùng âm 'GƠ RỊ' → vẽ đi vẽ lại = vẽ tranh! 그림을 그리다 = vẽ tranh		
+Lesson2	Vocabulary	1.5	Exam	인형을 모으다	in-hyong-ưl mô-ư-ta	Sưu tầm búp bê		
+Lesson2	Vocabulary	1.5.ex	Exam	제 동생은 인형을 모아요.	chê tông-sêng-ưn in-hyong-ưl mô-a-yô.	Em tôi sưu tầm búp bê.		
+Lesson2	Vocabulary	1.5.tip	Def			🈲 인형(人形) = Nhân Hình = hình người = búp bê. 모으다 nghe như 'MƠ Ờ ĐÀ' → mơ mộng gom góp búp bê! 인형을 모으다 = sưu tầm búp bê		
+Lesson2	Vocabulary	1.6	Exam	인터넷을 하다	in-tho-nê-sưl ha-ta	Lướt internet		
+Lesson2	Vocabulary	1.6.ex	Exam	저는 매일 인터넷을 해요.	cho-nưn mê-il in-tho-nê-sưl hê-yô.	Tôi lướt internet mỗi ngày.		
+Lesson2	Vocabulary	1.6.tip	Def			🔊 'In-teo-net' → INTERNET! Phiên âm tiếng Anh trực tiếp. 인터넷을 하다 = lên mạng/dùng internet		
+Lesson2	Vocabulary	2	Struc	Sở thích — danh từ (취미)				
+Lesson2	Vocabulary	2.1	Exam	영화 감상	yong-hoa gam-sang	Xem phim (thưởng thức điện ảnh)		
+Lesson2	Vocabulary	2.1.ex	Exam	제 취미는 영화 감상이에요.	chê truy-mi-nưn yong-hoa gam-sang-i-ê-yô.	Sở thích của tôi là xem phim.		
+Lesson2	Vocabulary	2.1.tip	Def			🈲 영화(映畫) = Điện Ảnh + 감상(感想/鑑賞) = Cảm Thưởng → Thưởng thức điện ảnh = xem phim (sở thích)!		
+Lesson2	Vocabulary	2.2	Exam	음악 감상	ư-mak gam-sang	Nghe nhạc (thưởng thức âm nhạc)		
+Lesson2	Vocabulary	2.2.ex	Exam	저는 음악 감상을 좋아해요.	cho-nưn ư-mak gam-sang-ưl chô-a-hê-yô.	Tôi thích nghe nhạc.		
+Lesson2	Vocabulary	2.2.tip	Def			🈲 음악(音樂) = Âm Nhạc + 감상(鑑賞) = Giám Thưởng → Thưởng thức âm nhạc = nghe nhạc (sở thích)!		
+Lesson2	Vocabulary	2.3	Exam	등산	tưng-san	Leo núi		
+Lesson2	Vocabulary	2.3.ex	Exam	저는 주말마다 등산을 해요.	cho-nưn chu-mal-ma-ta tưng-sa-nưl hê-yô.	Cuối tuần nào tôi cũng leo núi.		
+Lesson2	Vocabulary	2.3.tip	Def			🈲 Hán Việt: 등(登) = Đăng + 산(山) = Sơn → Đăng Sơn = leo núi! 등산 = leo núi/hiking		
+Lesson2	Vocabulary	2.4	Exam	독서	tôk-sso	Đọc sách		
+Lesson2	Vocabulary	2.4.ex	Exam	제 취미는 독서예요.	chê truy-mi-nưn tôk-sso-yê-yô.	Sở thích của tôi là đọc sách.		
+Lesson2	Vocabulary	2.4.tip	Def			🈲 Hán Việt: 독(讀) = Độc + 서(書) = Thư → Độc Thư = đọc sách! 독서 = đọc sách		
+Lesson2	Vocabulary	2.5	Exam	여행	yo-hêng	Du lịch		
+Lesson2	Vocabulary	2.5.ex	Exam	저는 여행을 아주 좋아해요.	cho-nưn yo-hêng-ưl a-chu chô-a-hê-yô.	Tôi rất thích du lịch.		
+Lesson2	Vocabulary	2.5.tip	Def			🈲 Hán Việt: 여(旅) = Lữ + 행(行) = Hành → Lữ Hành = du lịch! Lữ hành xã = công ty du lịch		
+Lesson2	Vocabulary	2.6	Exam	요리	yô-ri	Nấu ăn		
+Lesson2	Vocabulary	2.6.ex	Exam	저는 요리하는 것을 좋아해요.	cho-nưn yô-ri-ha-nưn go-sưl chô-a-hê-yô.	Tôi thích nấu ăn.		
+Lesson2	Vocabulary	2.6.tip	Def			🈲 Hán Việt: 요(料) = Liệu + 리(理) = Lý → Liệu Lý → tương tự "Liệu Lý món ăn" = nấu ăn! 요리 = nấu ăn		
+Lesson2	Vocabulary	2.7	Exam	낚시	nak-xi	Câu cá		
+Lesson2	Vocabulary	2.7.ex	Exam	아버지는 낚시를 좋아하세요.	a-bo-chi-nưn nak-xi-rưl chô-a-ha-sê-yô.	Bố tôi thích câu cá.		
+Lesson2	Vocabulary	2.7.tip	Def			🔊 'Nak-ssi' nghe như 'NÁC XỊ' → cá nó "nắc" (giật) câu xịn = câu cá! 낚시 = câu cá		
+Lesson2	Vocabulary	2.8	Exam	운동	un-tông	Thể dục / thể thao		
+Lesson2	Vocabulary	2.8.ex	Exam	저는 매일 운동을 해요.	cho-nưn mê-il un-tông-ưl hê-yô.	Tôi tập thể dục mỗi ngày.		
+Lesson2	Vocabulary	2.8.tip	Def			🈲 Hán Việt: 운(運) = Vận + 동(動) = Động → Vận Động! Giống y chang tiếng Việt! 운동 = thể thao/vận động		
+Lesson2	Vocabulary	2.9	Exam	컴퓨터 게임	khom-phyu-tho gê-im	Trò chơi điện tử		
+Lesson2	Vocabulary	2.9.ex	Exam	남동생은 컴퓨터 게임을 자주 해요.	nam-tông-sêng-ưn khom-phyu-tho gê-i-mưl cha-chu hê-yô.	Em trai tôi thường chơi game máy tính.		
+Lesson2	Vocabulary	2.9.tip	Def			🔊 'Keom-pyu-teo ge-im' → COMPUTER GAME! Phiên âm tiếng Anh trực tiếp. Nghe là hiểu ngay!		
+Lesson2	Vocabulary	3	Struc	Phó từ chỉ mức độ (정도 부사)				
+Lesson2	Vocabulary	3.1	Exam	아주	a-chu	Rất		
+Lesson2	Vocabulary	3.1.ex	Exam	한국어가 아주 재미있어요.	han-gu-go-ga a-chu chê-mi-i-sso-yô.	Tiếng Hàn rất thú vị.		
+Lesson2	Vocabulary	3.1.tip	Def			🔊 'A-ju' nghe như 'À JU' → "À, đúng dữ luôn!" = rất, vô cùng! 아주 = rất		
+Lesson2	Vocabulary	3.2	Exam	별로	pyol-rô	(Không) ... lắm		
+Lesson2	Vocabulary	3.2.ex	Exam	저는 운동을 별로 안 좋아해요.	cho-nưn un-tông-ưl pyol-rô an chô-a-hê-yô.	Tôi không thích vận động lắm.		
+Lesson2	Vocabulary	3.2.tip	Def			🈲 Hán Việt: 별(別) = Biệt + 로(路/也) → Biệt → tương tự "đặc biệt" nhưng dùng phủ định: 별로 = không mấy/không lắm		
+Lesson2	Vocabulary	3.3	Exam	전혀	chon-hyo	Hoàn toàn (không)		
+Lesson2	Vocabulary	3.3.ex	Exam	저는 술을 전혀 못 마셔요.	cho-nưn su-rưl chon-hyo môt ma-syo-yô.	Tôi hoàn toàn không uống được rượu.		
+Lesson2	Vocabulary	3.3.tip	Def			🈲 Hán Việt: 전(全) = Toàn + 혀... → 전혀 nghe gần "CHIÊN HỜ" → chiên đồ mà hờ hững chả thèm = hoàn toàn không! 전혀 = hoàn toàn không		
+Lesson2	Grammar	1	Struc	V-는 것 — Việc / sự làm gì (danh từ hóa động từ)				
+Lesson2	Grammar	1	Def			Biến động từ thành danh từ (danh từ hóa): "việc/sự làm gì". Cho phép động từ làm chủ ngữ hoặc tân ngữ trong câu.		
+Lesson2	Grammar	1	Form			V + 는 것. Trong văn nói thường rút gọn: 것이→게, 것을→걸, 것은→건.		
+Lesson2	Grammar	1	Usa			Hay đi với 좋아하다 (thích), 싫어하다 (ghét): "운동하는 것을 좋아해요" = thích vận động.		
+Lesson2	Grammar	1.1	Exam	운동하는 것을 좋아하세요?	un-tông-ha-nưn go-sưl chô-a-ha-sê-yô?	Bạn có thích vận động không?		
+Lesson2	Grammar	1.2	Exam	네, 야구하는 것을 좋아해요.	nê, ya-gu-ha-nưn go-sưl chô-a-hê-yô.	Vâng, tôi thích chơi bóng chày.		
+Lesson2	Grammar	1.3	Exam	한국어를 배우는 것이 재미있어요.	han-gu-go-rưl pê-u-nưn go-xi chê-mi-i-sso-yô.	Việc học tiếng Hàn rất thú vị.		
+Lesson2	Grammar	1.4	Exam	저는 책 읽는 것을 좋아해요.	cho-nưn trêk ing-nưn go-sưl chô-a-hê-yô.	Tôi thích đọc sách.		
+Lesson2	Grammar	2	Struc	V-(으)ㄹ 줄 알다[모르다] — Biết / không biết làm gì				
+Lesson2	Grammar	2	Def			Diễn đạt khả năng/kỹ năng đã học được: "biết / không biết làm gì". Nhấn vào việc CÓ kỹ năng hay không.		
+Lesson2	Grammar	2	Form			Không patchim → -ㄹ 줄 알다/모르다 | Có patchim → -을 줄 알다/모르다		
+Lesson2	Grammar	2	Usa			알다 = biết làm, 모르다 = không biết làm. 줄 thường phát âm căng [쭐] sau ㄹ.		
+Lesson2	Grammar	2.1	Exam	수영할 줄 아세요? — 아니요, 전혀 할 줄 몰라요.	su-yong-hal tchul a-sê-yô?  a-ni-yô, chon-hyo hal tchul môl-ra-yô.	Bạn có biết bơi không? — Không, tôi hoàn toàn không biết bơi.		
+Lesson2	Grammar	2.2	Exam	민수 씨는 수영할 줄 몰라요.	min-su sxi-nưn su-yong-hal tchul môl-ra-yô.	Anh Minsu không biết bơi.		
+Lesson2	Grammar	2.3	Exam	저는 한글을 읽을 줄 알아요.	cho-nưn han-gư-rưl il-gưl tchul a-ra-yô.	Tôi biết đọc chữ Hàn (Hangeul).		
+Lesson2	Grammar	2.4	Exam	저는 테니스를 칠 줄 알아요.	cho-nưn thê-ni-sư-rưl tril tchul a-ra-yô.	Tôi biết chơi tennis.		
+Lesson2	Grammar	3	Struc	V-(으)ㄴ N — Định ngữ quá khứ (N đã được làm)				
+Lesson2	Grammar	3	Def			Định ngữ quá khứ — động từ bổ nghĩa cho danh từ với nghĩa "đã làm". Diễn tả hành động đã hoàn thành tác động lên danh từ đứng sau.		
+Lesson2	Grammar	3	Form			V(không patchim) + ㄴ N | V(có patchim) + 은 N. Ví dụ: 보다→본, 먹다→먹은		
+Lesson2	Grammar	3	Usa			So sánh: 는 (hiện tại: 먹는 음식 = món đang ăn) ↔ (으)ㄴ (quá khứ: 먹은 음식 = món đã ăn) ↔ (으)ㄹ (tương lai: 먹을 음식 = món sẽ ăn).		
+Lesson2	Grammar	3.1	Exam	어제 본 영화 어땠어요? — 아주 재미있었어요.	o-chê pôn yong-hoa o-ttê-sso-yô?  a-chu chê-mi-i-sso-sso-yô.	Bộ phim hôm qua xem thế nào? — Rất thú vị.		
+Lesson2	Grammar	3.2	Exam	지난주에 산 옷을 바꾸고 싶어요.	chi-nan-chu-ê san ô-sưl pa-kku-gô xi-pho-yô.	Tôi muốn đổi bộ quần áo đã mua tuần trước.		
+Lesson2	Grammar	3.3	Exam	어제 먹은 음식 이름을 모르겠어요.	o-chê mo-gưn ưm-xik i-rư-mưl mô-rư-gê-sso-yô.	Tôi không nhớ tên món ăn đã ăn hôm qua.		
+Lesson2	Grammar	3.4	Exam	어제 만든 음식은 김밥이에요.	o-chê man-tưn ưm-xi-gưn gim-pa-bi-ê-yô.	Món ăn làm hôm qua là gimbap.		
+Lesson2	Grammar	4	Struc	A/V-지 않다 — Không (làm / thì) — phủ định dài				
+Lesson2	Grammar	4	Def			Phủ định "không (làm/thì)". Là dạng phủ định dài, trang trọng hơn 안. Dùng được cho cả tính từ (A) và động từ (V).		
+Lesson2	Grammar	4	Form			A/V + 지 않다. Quá khứ: 지 않았다. So với phủ định ngắn: 안 + V.		
+Lesson2	Grammar	4	Usa			안 먹어요 = 먹지 않아요 (đều là "không ăn"). Dạng -지 않다 hay dùng trong văn viết và khi muốn nhấn mạnh hơn.		
+Lesson2	Grammar	4.1	Exam	요즘 많이 바쁘지요? — 아니요, 별로 바쁘지 않아요.	yô-chưm ma-ni pa-ppư-chi-yô?  a-ni-yô, pyol-rô pa-ppư-chi a-na-yô.	Dạo này bận lắm phải không? — Không, không bận lắm.		
+Lesson2	Grammar	4.2	Exam	내 방은 크지 않지만 싸고 좋아요.	nê pang-ưn khư-chi an-tchi-man ssa-gô chô-a-yô.	Phòng tôi không lớn nhưng rẻ và tốt.		
+Lesson2	Grammar	4.3	Exam	저는 고기를 전혀 먹지 않아요.	cho-nưn gô-gi-rưl chon-hyo mok-tchi a-na-yô.	Tôi hoàn toàn không ăn thịt.		
+Lesson2	Grammar	4.4	Exam	어제 아파서 학교에 가지 않았어요.	o-chê a-pha-so hak-kkyô-ê ga-chi a-na-sso-yô.	Hôm qua tôi bị ốm nên không đến trường.		
+Lesson2	Speaking	1	Struc	Nói về sở thích (취미에 대해 말하기)				
+Lesson2	Speaking	1.1	Exam	정우 씨는 취미가 뭐예요?	chong-u sxi-nưn truy-mi-ga muo-yê-yô?	Anh Jeongu sở thích là gì?		
+Lesson2	Speaking	1.2	Exam	저는 운동하는 것을 좋아해요. 나나 씨는요?	cho-nưn un-tông-ha-nưn go-sưl chô-a-hê-yô. na-na sxi-nư-nyô?	Tôi thích vận động. Còn chị Nana?		
+Lesson2	Speaking	1.3	Exam	저도 운동하는 것을 좋아해요. 정우 씨는 무슨 운동을 잘하세요?	cho-tô un-tông-ha-nưn go-sưl chô-a-hê-yô. chong-u sxi-nưn mu-sưn un-tông-ưl chal-ha-sê-yô?	Tôi cũng thích vận động. Anh Jeongu giỏi môn thể thao gì?		
+Lesson2	Speaking	1.4	Exam	테니스를 좀 칠 줄 알아요. 나나 씨도 테니스를 칠 줄 아세요?	thê-ni-sư-rưl chôm tril tchul a-ra-yô. na-na sxi-tô thê-ni-sư-rưl tril tchul a-sê-yô?	Tôi biết chơi tennis một chút. Chị Nana cũng biết chơi tennis không?		
+Lesson2	Speaking	1.5	Exam	아니요, 저는 테니스를 전혀 못 쳐요. 시간이 나면 한번 배워 보고 싶어요.	a-ni-yô, cho-nưn thê-ni-sư-rưl chon-hyo môt tryo-yô. xi-ga-ni na-myon han-bon pê-uo pô-gô xi-pho-yô.	Không, tôi hoàn toàn không chơi được tennis. Khi nào rảnh tôi muốn thử học.		
+Lesson2	Speaking	1.6	Exam	그럼 제가 가르쳐 드릴까요?	gư-rom chê-ga ga-rư-tryo tư-ril-kka-yô?	Vậy tôi dạy cho chị nhé?		
+Lesson2	Speaking	1.7	Exam	네, 좋아요. 고마워요.	nê, chô-a-yô. gô-ma-uo-yô.	Vâng, được đấy. Cảm ơn anh.		
+Lesson2	Speaking	2	Struc	Giới thiệu hoạt động câu lạc bộ (동호회 활동 소개하기)				
+Lesson2	Speaking	2.1	Exam	마리코 씨, 요리하는 것을 좋아해요?	ma-ri-khô sxi, yô-ri-ha-nưn go-sưl chô-a-hê-yô?	Chị Mariko, chị có thích nấu ăn không?		
+Lesson2	Speaking	2.2	Exam	네, 그래서 요리 동호회에 가입했어요. 어제도 모임이 있었어요.	nê, gư-rê-so yô-ri tông-hô-huê-ê ga-i-phê-sso-yô. o-chê-tô mô-i-mi i-sso-sso-yô.	Vâng, vì vậy tôi đã tham gia câu lạc bộ nấu ăn. Hôm qua cũng có buổi họp mặt.		
+Lesson2	Speaking	2.3	Exam	어제는 뭘 했어요?	o-chê-nưn muol hê-sso-yô?	Hôm qua các bạn làm gì?		
+Lesson2	Speaking	2.4	Exam	한국 음식을 만들었어요. 어제 만든 음식은 김밥이에요.	han-guk ưm-xi-gưl man-tư-ro-sso-yô. o-chê man-tưn ưm-xi-gưn gim-pa-bi-ê-yô.	Chúng tôi đã làm món ăn Hàn Quốc. Món hôm qua làm là gimbap.		
+Lesson2	Speaking	2.5	Exam	한국 음식 만드는 게 어렵지 않았어요?	han-guk ưm-xik man-tư-nưn gê o-ryop-tchi a-na-sso-yô?	Làm món Hàn Quốc không khó à?		
+Lesson2	Speaking	2.6	Exam	별로 어렵지 않았어요. 재미있었어요.	pyol-rô o-ryop-tchi a-na-sso-yô. chê-mi-i-sso-sso-yô.	Không khó lắm. Rất vui.		
